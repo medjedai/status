@@ -4,17 +4,17 @@
     "url": "https://medjed.ai",
     "icon": "https://icons.duckduckgo.com/ip3/medjed.ai.ico",
     "slug": "medjed-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 187,
-    "timeWeek": 270,
-    "timeMonth": 264,
-    "timeYear": 299,
+    "time": 300,
+    "timeDay": 252,
+    "timeWeek": 276,
+    "timeMonth": 265,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   }
 ]
