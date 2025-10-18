@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/medjed.ai.ico",
     "slug": "medjed-ai",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 290,
-    "timeDay": 344,
-    "timeWeek": 273,
-    "timeMonth": 275,
-    "timeYear": 290,
+    "uptimeYear": "99.97%",
+    "time": 288,
+    "timeDay": 144,
+    "timeWeek": 254,
+    "timeMonth": 267,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-10-02": 30
     }
