@@ -10,13 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 276,
-    "timeDay": 256,
-    "timeWeek": 207,
-    "timeMonth": 268,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 254,
+    "timeWeek": 213,
+    "timeMonth": 267,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2025-10-02": 30
     }
+  },
+  {
+    "name": "Medjed AI Docs",
+    "url": "https://docs.medjed.ai/",
+    "icon": "https://icons.duckduckgo.com/ip3/docs.medjed.ai.ico",
+    "slug": "medjed-ai-docs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
+    "dailyMinutesDown": {}
   }
 ]
