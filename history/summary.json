@@ -4,10 +4,10 @@
     "url": "https://medjed.ai",
     "icon": "https://icons.duckduckgo.com/ip3/medjed.ai.ico",
     "slug": "medjed-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 268,
@@ -16,6 +16,7 @@
     "timeMonth": 236,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2026-02-13": 2,
       "2026-01-29": 44,
       "2025-10-02": 30
     }
@@ -25,7 +26,7 @@
     "url": "https://docs.medjed.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.medjed.ai.ico",
     "slug": "medjed-ai-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
